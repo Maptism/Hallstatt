@@ -1,0 +1,28 @@
+title: Hallstatt Culture Research Project
+description: >-
+  Comprehensive archaeological reference corpus on the Hallstatt culture
+  (Ha C–D, ~800–450 BC) — material culture, burial practices, mining,
+  trade networks, social organisation, and image-generation prompt suites.
+theme: just-the-docs
+
+url: https://maptism.github.io
+baseurl: /Hallstatt
+
+aux_links:
+  "Maptism on GitHub":
+    - "https://github.com/Maptism"
+
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Maptism — Hallstatt Culture Research Project"
+
+exclude:
+  - CLAUDE.md
+  - LAUNCH_GUIDE.md
+  - .venv/
+  - .claude/
+  - Gemfile.lock
+  - LICENSE
+  - "*.sh"

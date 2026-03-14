@@ -1,0 +1,142 @@
+---
+layout: default
+title: 03 — Metallurgy
+parent: Research Collection
+nav_order: 3
+---
+
+# 03 — Copper and Iron Metallurgy in the Hallstatt Period
+
+> **Web sources consulted:** [Hallstatt Culture Wikipedia](https://en.wikipedia.org/wiki/Hallstatt_culture); [Hallstatt Culture — World History Encyclopedia](https://www.worldhistory.org/Hallstatt_Culture/); [Prigglitz-Gasteil Bronze Age smelting, *PLOS ONE*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254096); [Rotholz Late Bronze Age smelting, N. Tyrol](https://www.academia.edu/43539408); [Mahrersdorf archaeometallurgy, *Journal of Archaeological Science: Reports*](https://www.sciencedirect.com/science/article/pii/S2352409X20302674).
+
+## 1. Overview: The Bronze-to-Iron Transition in Central Europe
+
+The Hallstatt period (~800–450 BC) spans one of the most consequential technological transformations in European prehistory: the adoption of iron as the dominant utilitarian metal. This transition was neither abrupt nor uniform. In the Eastern Alpine zone, copper and bronze production continued alongside emerging iron metallurgy for centuries, and the relationship between the two metal economies shaped settlement hierarchies, trade networks, and social power structures throughout Ha C and Ha D. The Reinecke system places the beginning of systematic iron use in Central Europe at Ha C (~800–620 BC), when iron first appears as a prestige material in elite graves, often in the form of swords with bronze or ivory fittings. By Ha D (~620–450 BC), iron had become the standard material for weapons, tools, and agricultural implements, while bronze was increasingly reserved for decorative items, vessels, fibulae, and parade equipment. This is not a simple replacement narrative: copper mining, bronze casting, and sheet-bronze working remained sophisticated and economically vital industries throughout the entire Hallstatt period (Pare 1992; Egg 1996).
+
+The geographic scope of Hallstatt metallurgy is vast. Ore deposits in the Eastern Alps (Salzburg, Tyrol, Carinthia, Styria) supplied copper and, to some extent, iron. The Slovenian and Croatian karst regions provided additional iron ores. The western Hallstatt zone, centred on southwest Germany and eastern France, depended more heavily on traded metal, though local bog iron exploitation is increasingly attested. Understanding Hallstatt metallurgy requires tracking both the primary production sites (mines and smelting furnaces) and the secondary workshops where raw metal was transformed into finished objects, as well as the exchange systems that connected them.
+
+## 2. Copper Mining: Continuity and Decline from the Bronze Age
+
+### 2.1 The Mitterberg District (Salzburg, Austria)
+
+The Mitterberg copper mining district (Mühlbach am Hochkönig, Land Salzburg) represents the largest prehistoric copper production complex in Central Europe. Mining at Mitterberg began in the Middle Bronze Age (Bz B, ~1500 BC) and reached peak production during the Late Bronze Age (Ha A–B, ~1200–800 BC), when the district may have produced several hundred tonnes of copper annually, making it one of the most important ore sources in prehistoric Europe (Stöllner 2003; Stöllner et al. 2012). The principal ore was chalcopyrite (CuFeS₂), occurring in fahlore-bearing veins within greywacke and phyllite host rocks.
+
+The transition into Ha C saw a marked decline in Mitterberg production. Radiocarbon dates from mine timbers and associated settlements suggest that large-scale underground gallery mining contracted significantly around 800–700 BC (Stöllner 2003). The causes of this decline are debated: exhaustion of easily accessible ore bodies, competition from other copper sources (particularly Cypriot and Iberian copper entering Mediterranean trade), the disruption of Late Bronze Age exchange networks, and the rising importance of iron have all been proposed. However, small-scale copper extraction may have continued at Mitterberg into Ha C or even Ha D, as indicated by scattered finds of mining tools and limited stratigraphic evidence in some galleries. The precise end date remains uncertain, and this is a known gap in the archaeological record.
+
+Production technology at Mitterberg involved fire-setting to fracture rock faces underground, extraction of ore with bronze and later iron picks, hand-sorting and crushing of ore above ground, roasting to drive off sulphur, and smelting in small shaft furnaces using charcoal fuel. Smelting sites with thick slag deposits have been identified at several locations around Mitterberg, including the Arthurstollen area. Copper ingots — both plano-convex "bun" ingots and elongated bar ingots — were the primary trade form. Lead isotope analysis has traced Mitterberg copper across a wide distribution zone spanning the Eastern Alps, the Danube corridor, and beyond (Pernicka et al. 2016).
+
+### 2.2 The Schwaz-Brixlegg District (Tyrol, Austria)
+
+The Schwaz-Brixlegg mining area in the lower Inn Valley is another major prehistoric copper source. Fahlore deposits here were exploited from the Early Bronze Age onward. Unlike Mitterberg, there is stronger evidence for continuity of small-scale copper working into the Early Iron Age at Schwaz-Brixlegg, likely because the fahlore ores here contained significant antimony and arsenic impurities that produced a distinctive alloy detectable through trace-element analysis (Höppner et al. 2005). Smelting sites in the vicinity (e.g., Mauk area) show multi-phase occupation spanning the Late Bronze Age into Ha C. The copper produced here may have been traded alongside tin-bronze finished goods into the western Hallstatt zone.
+
+### 2.3 Other Alpine Copper Sources
+
+Additional copper mining districts with evidence for Late Bronze Age to Early Iron Age activity include the Kelchalm area (Kitzbühel, Tyrol), where mining galleries with wooden infrastructure have been radiocarbon-dated to the Urnfield and early Hallstatt periods; the Viehhofen area in the Salzburg Pinzgau; and several smaller operations in Carinthia and East Tyrol. In Slovenia, copper ore deposits in the Pohorje region and around Celje may have contributed to the metal supply of the southeastern Hallstatt communities at sites like Stična and Novo Mesto, though direct archaeological evidence for Hallstatt-period copper smelting in Slovenia remains limited compared to the Austrian Alps.
+
+### 2.4 Copper and Bronze in Hallstatt-Period Material Culture
+
+Despite the shift to iron, copper alloys remained indispensable throughout the Hallstatt period. Bronze was the material of choice for: situlae and other sheet-bronze vessels central to elite feasting culture; fibulae of all types (from simple bow fibulae to elaborate serpentine, boat, and spectacle forms); horse gear and wagon fittings in elite burials; decorative belt plates, particularly in the Eastern Hallstatt zone; helmets (e.g., Negau-type helmets from Kleinklein, Styria); and defensive armour including cuirasses and greaves. The sheet-bronze working tradition reached extraordinary refinement in the situla art of the southeastern Alpine region (see 07_situla_art.md), and in the production of elaborate bronze vessels like the Strettweg cult wagon (Kultwagen) from Grave 1 at Strettweg near Judenburg, Styria, dated to Ha C (~600 BC), a masterwork of lost-wax and sheet-bronze techniques depicting a ritual scene with a central female figure on a wheeled platform surrounded by warriors and mounted figures (Egg 1996).
+
+## 3. The Adoption of Iron
+
+### 3.1 Earliest Iron in Central Europe
+
+Iron objects appear sporadically in Central European contexts as early as Ha B (the late Urnfield period, ~950–800 BC), but these are rare prestige items — small rings, pins, or knife blades — often found in wealthy graves alongside abundant bronze. The systematic adoption of iron for weapons, particularly swords, defines the onset of Ha C in the Reinecke system. The earliest Hallstatt iron swords, typologically classified as Mindelheim-type swords (after finds from Mindelheim, Bavaria), appear around 800 BC and represent a direct translation of Late Bronze Age sword forms into the new metal. These early iron swords were often of mediocre metallurgical quality, suggesting that smiths were still learning to control carburisation and heat treatment (Pleiner 2000).
+
+The source of ironworking knowledge in Central Europe remains debated. The main hypotheses are: (a) diffusion from the Eastern Mediterranean and Anatolia, where iron technology was established by ~1200 BC, transmitted via the Balkans and/or Italian peninsula; (b) independent or semi-independent development stimulated by awareness of iron objects circulating through trade; and (c) a more complex model involving multiple vectors of transmission, including contacts with the Italic world and with steppe communities to the east. The Italian connection is supported by the early presence of iron in Villanovan contexts (9th century BC) and the strong cultural links between Villanovan Italy and the Hallstatt world evidenced by shared vessel forms and situla art. The Balkan route is supported by early iron finds in the Donja Dolina and Glasinac regions of Bosnia (Vasic 1977). Most current scholarship favours a multi-vector model with the Italian/Adriatic connection as particularly significant for the western and southeastern Hallstatt zones (Pare 1992).
+
+### 3.2 Iron Ore Sources and Smelting Technology
+
+Central European iron production during the Hallstatt period relied overwhelmingly on two types of ore: (1) siderite (FeCO₃) and limonite/goethite (FeOOH) deposits in the Eastern Alps, particularly in Styria (the Erzberg at Eisenerz being the most famous, though its prehistoric exploitation is debated), Carinthia, and the Hüttenberg district; and (2) bog iron (limonite concretions in wetland environments), which was widely available across the North European Plain and in lowland areas of southern Germany and eastern France.
+
+The Hüttenberg district in Carinthia is of particular importance. This area contains siderite-ankerite ores that were accessible through surface outcrops and shallow mining. Archaeological evidence for iron smelting at Hüttenberg and surrounding areas dates to the Hallstatt period, and the district has long been considered a key iron source for the Eastern Hallstatt communities in Carinthia, Styria, and Slovenia. However, systematic modern excavation of Hallstatt-period smelting sites in the Hüttenberg area remains limited, and much of the evidence comes from surface surveys and slag analyses (Clar 1953; Presslinger and Eibner 1993).
+
+In Slovenia, iron smelting sites associated with the southeastern Hallstatt communities (the Dolenjska group) have been identified at several locations. The hillfort settlement of Stična (Štiha), excavated extensively from the 1960s onward by Stare and later by Gabrovec, yielded evidence of metalworking including iron smithing debris. The broader Dolenjska region (Lower Carniola) had access to local iron ores and developed a significant iron production capacity during Ha C–D, as evidenced by the abundance of iron weapons, tools, and fittings in the rich tumulus cemeteries at Stična, Novo Mesto (Kapiteljska njiva), Magdalenska Gora, and Vače (Gabrovec 1966; Tecco Hvala 2012). Specific smelting furnace sites in Dolenjska, however, are less well documented than the consumption sites.
+
+In the Western Hallstatt zone, iron smelting evidence comes from several contexts. At the Heuneburg (an elite hillfort on the upper Danube in Baden-Württemberg, Ha D, ~620–450 BC), excavations have revealed iron smithing workshops within the settlement, with forging hearths, hammerscale concentrations, and semi-finished iron objects indicating on-site iron working (Kurz 2010). Whether the Heuneburg smelted iron from ore or worked traded blooms is less clear; the absence of large slag heaps typical of primary smelting suggests the latter. Bog iron exploitation in the broader southwest German region is plausible but archaeologically elusive for this period.
+
+The Hallstatt-period smelting process used small bowl or shaft furnaces, typically constructed of clay, with forced-air draught provided by bellows. These produced a spongy bloom of iron (a heterogeneous mass of iron, slag, and charcoal) that required extensive hot-working — repeated heating and hammering — to consolidate into usable bar iron. Furnace remains from Ha C–D contexts are rare but have been identified in Carinthia, Styria, at sites in the Burgenland, and in the Dolenjska region of Slovenia. The furnaces were small, with internal diameters typically under 30–40 cm, and produced blooms weighing perhaps 1–5 kg per smelt. This stands in stark contrast to the scale of contemporary iron production in the Mediterranean world, where larger furnaces and more systematic production were already established. Charcoal consumption was significant: estimates suggest 8–12 kg of charcoal per kg of usable iron, implying substantial woodland management or deforestation around smelting centres (Pleiner 2000).
+
+### 3.3 Iron Sword Production and Typology
+
+The Hallstatt iron sword is arguably the period's defining artefact class. Sword typology has been central to Hallstatt chronology since the foundational work of Paul Reinecke and subsequent refinements by Müller-Karpe, Cowen, and Schauer. The main types include:
+
+**Ha C swords (~800–620 BC):** The Mindelheim type (long slashing sword, often with bronze or iron antenna pommel) and the Gündlingen type (leaf-shaped blade derived from Bronze Age predecessors, widespread across western Central Europe and into the British Isles). These swords are typically found in cremation graves accompanied by bronze vessels, horse gear, and sometimes wagon fittings. Metallographic analysis of Mindelheim and Gündlingen swords reveals that many were made of heterogeneous, low-carbon iron, sometimes with accidental or intentional carburised edges. Some show evidence of pattern-welding or the combination of iron and steel strips, indicating that smiths were beginning to understand the effects of carbon content on hardness (Pleiner 2000; Lang 2010).
+
+**Ha D swords (~620–450 BC):** The transition to Ha D sees a shift from long slashing swords to shorter stabbing weapons, notably daggers (Dolchmesser) that become the characteristic weapon deposit in elite graves. The famous Hallstatt cemetery itself yielded numerous iron swords and daggers with elaborate hilts of ivory, bone, amber, and gold. The decline of the long sword and the rise of the dagger may reflect changes in fighting style, social display, or Mediterranean influence. Concurrently, iron was adopted for a much wider range of utilitarian objects: axes, adzes, sickles, ploughshares (ards), knives, fire-dogs, and structural fittings.
+
+### 3.4 Metallographic Studies
+
+Scientific analysis of Hallstatt-period iron objects has been pursued most systematically by Radomir Pleiner, whose monograph *Iron in Archaeology: The European Bloomery Smelters* (2000) remains the standard reference. Pleiner and others have demonstrated that Hallstatt smiths achieved a range of iron and steel qualities, from soft ferritic iron to high-carbon steel (~0.6–0.8% C), though consistency was poor compared to later La Tene smithing. Carburisation (the absorption of carbon into iron during prolonged heating in a charcoal forge) was probably understood empirically by Ha D, as evidenced by deliberate hardened edges on some weapons and tools. Quench-hardening, however, appears to have been rare or absent before La Tene A; most Hallstatt iron objects show air-cooled or slow-cooled microstructures. Phosphoric iron — iron with elevated phosphorus content, often derived from bog iron ores — is identifiable in some Hallstatt objects and is associated with distinctive hot-shortness problems during forging (Tylecote 1987; Pleiner 2000).
+
+## 4. Bronze Production and Sheet-Metal Working
+
+### 4.1 The Situla Workshops
+
+The production of repoussé-decorated bronze situlae and related vessels (cists, buckets, lids) is among the most technically accomplished metallurgical achievements of the Hallstatt world. These vessels were fabricated from cast bronze sheet, hammered to the desired thickness (typically 0.5–1.5 mm), shaped over formers, and decorated with chased and repoussed figural scenes using fine punches and tracing tools. Riveted handles and attachments completed the vessels. The production centres are debated, but the concentration of situla art in the southeastern Alpine region — from the Po Valley through the Veneto into Slovenia, Carinthia, and Styria — suggests workshops in or near Este (Veneto), Bologna, and possibly at major Hallstatt settlements like Kleinklein and sites in the Dolenjska region (Lucke and Frey 1962; Turk 2005).
+
+### 4.2 Kleinklein (Styria, Austria)
+
+The cemetery complex at Kleinklein (Pommerkogel, Kröllkogel, and other tumuli), near Leibnitz in western Styria, is one of the richest Hallstatt burial sites and a key node in bronze production and consumption. The Kröllkogel tumulus, excavated by Dobiat (1980) and later by Egg and Kramer (2005), contained extraordinary sheet-bronze assemblages including decorated bronze masks (Gesichtsmasken), hands, and body-covering plaques, as well as bronze vessels, weaponry, and iron objects. The bronze masks from Kleinklein — facial coverings hammered from sheet bronze with repoussé features — are unique to this site and represent a highly localised funerary practice indicating concentrated bronze-working expertise. Chemical analysis of Kleinklein bronzes shows tin-bronze with ~8–12% Sn, consistent with Eastern Alpine copper sources and imported tin, likely from Cornwall or Iberian sources via long-distance trade.
+
+### 4.3 Bronze Vessel Types and Distribution
+
+Key Hallstatt bronze vessel types that illuminate metallurgical production and trade include: **Schnabelkannen** (beaked jugs), a form derived from Etruscan prototypes and produced both in Italy and in transalpine workshops during Ha D; **Kordrandschalen** (cordoned bowls); **bronze cauldrons** on iron tripod stands, found notably at Hochdorf and other princely graves; and **Etruscan bronze imports** (stamnoi, oinochoai, basins) deposited in Western Hallstatt elite graves at Vix, Hochdorf, Grafenbühl, and the Heuneburg vicinity. The famous Vix krater — a massive bronze vessel 1.64 m tall, weighing 208.6 kg, of Greek (possibly Laconian) manufacture — found in the grave of an elite woman at Mont Lassois (Burgundy, ~500 BC), represents the most spectacular example of Mediterranean bronze reaching the Hallstatt world (Rolley 2003).
+
+## 5. Trade in Raw Metal versus Finished Goods
+
+A central question in Hallstatt metallurgy studies is whether metal circulated primarily as raw material (ingots, blooms) or as finished objects (see 08_trade_networks.md for the broader exchange context). The evidence suggests both modes operated simultaneously but varied by metal type and region.
+
+**Copper/bronze:** During the Late Bronze Age, standardised ingot forms (Rippenzungen ingots, ring ingots, plano-convex ingots) served as a medium of exchange and a store of value, and this system continued in attenuated form into Ha C. Hoards containing ingots, scrap bronze, and broken objects (Brucherzhort) are a hallmark of the Late Bronze Age/Early Iron Age transition and suggest a recycling economy in which old bronze was collected, remelted, and recast. By Ha D, purpose-made ingots become rarer, and bronze circulated primarily as finished goods (vessels, fibulae, ornaments) or as recycled scrap. The scrap-metal economy is evidenced by founder's hoards containing broken vessel fragments, mis-cast objects, and casting waste.
+
+**Iron:** Early iron circulated primarily as finished weapons and prestige goods during Ha C. By Ha D, iron blooms and currency bars (Spitzbarren, elongated bar ingots with tapering ends) appear in hoards and settlement contexts, suggesting the development of a raw-iron trade. The distribution of iron currency bars is particularly well documented in the La Tene period, but earlier Hallstatt precursors exist. The question of whether Hallstatt Furstensitze controlled iron production directly or acquired it through exchange remains open. At the Heuneburg, the presence of smithing but apparent absence of smelting suggests reliance on traded iron blooms, possibly from the Swabian Alb or from the Alpine foreland.
+
+**Mediterranean imports versus local production:** The presence of Etruscan and Greek bronze vessels in Hallstatt elite graves raises the question of whether these objects arrived as finished luxury goods (gift exchange, trade) or whether their metal was ever recycled locally. The intact deposition of Mediterranean imports in graves argues strongly for their circulation as prestige objects rather than as raw material. This contrasts with the treatment of locally produced bronze items, which were more frequently fragmented and recycled. The asymmetry suggests that imported bronze vessels carried symbolic or social capital that exceeded their material value.
+
+## 6. Regional Synthesis
+
+### 6.1 Eastern Hallstatt Zone
+
+The Eastern Hallstatt communities (Styria, Carinthia, Slovenia, western Hungary) had the advantage of proximity to both copper and iron ore sources. This resource base underpinned the exceptional metalwork found in cemeteries like Kleinklein, Stična, Vače, Magdalenska Gora, and Novo Mesto. The Dolenjska group in particular combined local iron production with sophisticated bronze-working traditions inherited from the Urnfield period and influenced by Italic contacts. Iron weapons (swords, spearheads, axes) and bronze defensive armour (helmets, cuirasses) coexist in elite graves, reflecting a warrior ideology in which both metals played complementary roles. Lead isotope and trace-element studies increasingly allow provenance determination for Eastern Hallstatt bronzes, though systematic datasets remain incomplete.
+
+### 6.2 Western Hallstatt Zone
+
+The Western Hallstatt Furstensitze (Heuneburg, Hohenasperg, Mont Lassois, Bourges, Ipf) were generally more distant from primary metal ore sources. Their metal supply depended on trade networks linking the Alpine mining regions to the north and west, and on Mediterranean exchange channelled through the Rhone corridor (Massalia) and across the Alpine passes. The concentration of Mediterranean bronze imports at Western Hallstatt elite sites indicates that control over prestige-goods exchange, rather than direct control of metal production, was a key basis of elite power in this zone. Iron was worked locally (smithing debris at Heuneburg, Ipf, Hohenasperg), but primary smelting facilities are rarely attested at the Furstensitze themselves. Local bog iron may have supplemented traded Alpine iron, but the relative contributions remain unclear.
+
+## 7. Interpretive Debates
+
+Several major debates structure current scholarship on Hallstatt metallurgy:
+
+**Pace of iron adoption:** Was the adoption of iron "revolutionary" or gradual? The archaeological record strongly supports a gradualist reading: iron entered as a prestige material in Ha C and only became the utilitarian standard by late Ha D, a process spanning three centuries. Some scholars emphasise supply-side factors (availability of iron ore, accumulated smithing knowledge), while others stress demand-side factors (the desire for harder, more durable tools and weapons, the social prestige of a novel material). The coexistence of bronze and iron throughout the Hallstatt period warns against framing the transition as a simple technological substitution (Stollner 2003; Pare 1992).
+
+**Organisation of production:** Were Hallstatt metallurgical industries organised at the household level, the community level, or under elite control? Evidence from smelting sites suggests small-scale, possibly seasonal production by specialist but non-elite smelters. However, the concentration of high-quality finished metalwork in elite graves implies that elites controlled distribution if not production. The "attached specialist" model, in which craft producers work under elite patronage, has been proposed for the Furstensitze but is difficult to demonstrate archaeologically for metalworking specifically, as opposed to other crafts like textile production (Wells 1980; Frankenstein and Rowlands 1978).
+
+**Decline of Alpine copper mining:** The apparent decline of large-scale copper mining at Mitterberg and other Alpine sites during Ha C coincides with the rise of iron. Whether iron displaced copper economically, or whether the decline of copper mining had independent causes (ore exhaustion, trade disruption, demographic shifts), remains debated. The continued importance of bronze for vessels, ornaments, and parade equipment throughout the Hallstatt period argues against a simple displacement model.
+
+**Provenance and trade routes:** Lead isotope analysis and trace-element fingerprinting have made significant advances in sourcing Hallstatt copper to specific mining districts, but the database remains patchy and interpretations are sometimes contested. For iron, provenance determination is inherently more difficult because iron ores are ubiquitous and smelting removes many diagnostic trace elements. Slag inclusion analysis offers some potential but has been applied to Hallstatt material only in limited studies.
+
+## 8. Key References
+
+- Barth, F.E. (1992). Prehistoric mining at Hallstatt. *Bulletin of the Metals Museum* 18.
+- Clar, E. (1953). Uber die Herkunft der im Ostalpenraum in vorgeschichtlicher Zeit verwendeten Metalle. *Archaeologia Austriaca* 12.
+- Dobiat, C. (1980). *Das hallstattzeitliche Graberfeld von Kleinklein und seine Keramik.* Schild von Steier, Beiheft 1.
+- Egg, M. (1996). *Das hallstattzeitliche Furstengraber von Strettweg bei Judenburg in der Obersteiermark.* RGZM Monographien 37.
+- Egg, M. and Kramer, D. (2005). *Krieger — Feste — Totenopfer: Der letzte Hallstattfurst von Kleinklein in der Steiermark.* RGZM Mosaiksteine Forschung 1.
+- Frankenstein, S. and Rowlands, M.J. (1978). The internal structure and regional context of Early Iron Age society in south-western Germany. *Bulletin of the Institute of Archaeology London* 15, 73–112.
+- Gabrovec, S. (1966). Zur Hallstattzeit in Slowenien. *Germania* 44, 1–48.
+- Hoppner, B. et al. (2005). Prehistoric copper production in the Inn Valley (Austria). *Journal of Archaeological Science* 32, 1541–1567.
+- Kurz, S. (2010). *Zur Siedlungsgeschichte der Heuneburg.* Forschungen und Berichte zur Vor- und Fruhgeschichte in Baden-Wurttemberg 119.
+- Lang, J. (2010). An examination of Hallstatt iron swords. *Historical Metallurgy* 44(1), 38–46.
+- Lucke, W. and Frey, O.-H. (1962). *Die Situla in Providence (Rhode Island).* Romisch-Germanische Forschungen 26.
+- Pare, C. (1992). *Wagons and Wagon-Graves of the Early Iron Age in Central Europe.* Oxford University Committee for Archaeology.
+- Pernicka, E. et al. (2016). Lead isotope analyses of copper ores from the Eastern Alps. *Archaeometry* 58(S1), 50–65.
+- Pleiner, R. (2000). *Iron in Archaeology: The European Bloomery Smelters.* Prague: Archeologicky ustav AV CR.
+- Presslinger, H. and Eibner, C. (1993). Hallstattzeitliche Eisenverarbeitung im Raum Huttenberg. *Carinthia I* 183, 203–220.
+- Rolley, C. (2003). *La tombe princiere de Vix.* Paris: Picard.
+- Stollner, T. (2003). Mining and economy — a discussion of spatial organisations and structures of early raw material exploitation. In T. Stollner et al. (eds.), *Man and Mining.* Der Anschnitt, Beiheft 16, 415–446.
+- Stollner, T. et al. (2012). The Mitterberg copper mining district in the Alps. *Chungara* 44(1), 65–81.
+- Tecco Hvala, S. (2012). *Magdalenska Gora: Druzbena struktura in grobni rituali zeleznodoba skupnosti.* Ljubljana: Opera Instituti Archaeologici Sloveniae 26.
+- Turk, P. (2005). Images of life and myth in the world of the ancient Situla Art. In P. Turk et al. (eds.), *The Situla from Vace.* Ljubljana.
+- Tylecote, R.F. (1987). *The Early History of Metallurgy in Europe.* London: Longman.
+- Vasic, R. (1977). The Chronology of the Early Iron Age in the Socialist Republic of Serbia. *BAR International Series* 31.
+- Wells, P.S. (1980). *Culture Contact and Culture Change: Early Iron Age Central Europe and the Mediterranean World.* Cambridge University Press.
