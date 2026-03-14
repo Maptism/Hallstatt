@@ -4,3 +4,5 @@ _site/
 .jekyll-cache/
 .sass-cache/
 Gemfile.lock
+CLAUDE.md
+LAUNCH_GUIDE.md
